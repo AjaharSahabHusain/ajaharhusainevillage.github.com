@@ -1,0 +1,35 @@
+.logo
+{
+	min-height:200px;
+	background:lime;
+	padding:0px;
+}
+.title1
+{
+	min-height:200px;
+	background:linear-gradient(gold,gray);
+}
+.menu
+{
+	min-height:100px;
+	background:linear-gradient(cyan,gold);
+}
+.slider
+{
+	min-height:400px;
+	background:linear-gradient(pink,teal);
+}
+.leftmain
+{
+	min-height:600px;
+	background:pink;
+}
+.rightmain
+{
+	min-height:600px;
+	background-image:url('t4.jpg');
+}
+.footer
+{
+	height:300px;
+	background:yellow;
